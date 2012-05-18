@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# install required system libraries
+sudo apt-get install -yq libpq-dev python-dev
